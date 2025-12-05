@@ -1,4 +1,4 @@
-# SimplePractice - UI Automation (Tasks feature)
+# SP - UI Automation (Tasks feature)
 
 This project contains UI automation tests for the **Tasks** feature using:
 
