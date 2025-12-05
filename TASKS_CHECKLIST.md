@@ -5,7 +5,7 @@ Sections are grouped by meaningful user workflows (Create, View/List, Edit, Comp
 
 ---
 
-##1) Access & Navigation
+## 1) Access & Navigation
 
 - Navigate to Tasks page from the Main Page and see the Tasks list load successfully.
 - Clicking the 'Create task' button opens the New Task form.
@@ -13,7 +13,7 @@ Sections are grouped by meaningful user workflows (Create, View/List, Edit, Comp
 
 ---
 
-##2) Tasks List
+## 2) Tasks List
 
 - Tasks list displays existing tasks under the selected status filter
 - Each task card displays expected summary info (title, due date/time if set, client if set, assignee if set, priority badge if set).
@@ -21,7 +21,7 @@ Sections are grouped by meaningful user workflows (Create, View/List, Edit, Comp
 
 ---
 
-##3) Search
+## 3) Search
 
 - Using the Search field updates the Tasks list in real time.
 - The Tasks list displays only tasks that contains in its summary the content input into the Search field.
@@ -29,7 +29,7 @@ Sections are grouped by meaningful user workflows (Create, View/List, Edit, Comp
 
 ---
 
-##4) Filters
+## 4) Filters
 
 - Status filter changes between All / Incomplete / Completed and updates the list accordingly.
 - Asignee filter can be changed to a specific asignee and updates the list accordingly.
@@ -43,7 +43,7 @@ Sections are grouped by meaningful user workflows (Create, View/List, Edit, Comp
 
 ---
 
-##5) Create Task
+## 5) Create Task
 
 5.1 Minimal Create (required fields only)
 - Create a task using only Task Name and Save; task is created successfully and is displayed in the list.
@@ -71,7 +71,7 @@ Sections are grouped by meaningful user workflows (Create, View/List, Edit, Comp
 
 ---
 
-##6) Edit Task
+## 6) Edit Task
 
 - Open an existing task, update Task Name, and Save; changes persist and display across navigation/refresh.
 - Update Description and Save; changes persist.
@@ -84,14 +84,14 @@ Sections are grouped by meaningful user workflows (Create, View/List, Edit, Comp
 
 ---
 
-##7) Complete Task
+## 7) Complete Task
 
 - From the Incomplete filter, marking a task as completed by clicking on the checkbox moves it to the Completed list.
 - From the Completed filter, marking a task as incomplete by clicking on the checkbox moves it to the Incomplete list.
 
 ---
 
-##8) Attachments
+## 8) Attachments
 
 - Upload a supported file type and the upload completes successfully.
 - Clicking on the attachment opens it.
